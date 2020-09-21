@@ -1,6 +1,6 @@
 # Information
 
-![Samir](https://raw.githubusercontent.com/HackYourFutureBelgium/class-11-12/master/lib/avatars/students/samirm00.jpeg)
+![Samir](https://avatars1.githubusercontent.com/u/67711948?s=400&u=e08367ea779afa28c14cc5ecc636f6c6133df45a&v=4)
 
 **Name:** Samir
 
